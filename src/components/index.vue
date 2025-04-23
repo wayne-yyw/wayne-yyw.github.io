@@ -1,5 +1,5 @@
 <template>
-  <div class="hello">用于测试部署网页！</div>
+  <div class="hello">用于个人测试部署网页！</div>
 </template>
 
 <script>
